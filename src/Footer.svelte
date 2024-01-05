@@ -5,7 +5,6 @@
   <a href="https://koenvangilst.nl">Gorilla</a>
   <br />
   For Motu PANDA
-  v. {process.env.APP_VERSION} git {process.env.COMMIT_HASH}
 </footer>
 
 <style>
