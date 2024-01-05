@@ -2,7 +2,7 @@
   Made with
   <span>♥️</span>
   by
-  <a href="https://koenvangilst.nl">Gorilla</a>
+  <a href="#">Gorilla</a>
   <br />
   For Motu PANDA
 </footer>
